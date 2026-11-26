@@ -1,0 +1,1 @@
+{"description":"The World in One Day — 26 November 2026: a deterministic Node 22 program that draws a 1024x1024 newspaper front page summing up the day's world news.","license":"MIT","name":"news-image-20261126-entry","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
